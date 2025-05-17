@@ -26,7 +26,7 @@ Alternative project [WolframFourierArtConverter](https://github.com/wwwMADwww/Wo
 
 Generate C# code for formula in `batman.txt`:
 
-`WolframFourierArtCode -i batman.txt --lang=Cpp`
+`WolframFourierArtCode -i batman.txt --lang=CSharp`
 
 
 Generate Python code for formula in `007.txt` and name generated class as `JamesBondFunc`:
